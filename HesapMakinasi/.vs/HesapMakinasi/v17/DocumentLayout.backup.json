@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FURKAN T\u00DCRKER\\Desktop\\\u002B\\G\u00F6rsel Programlama\\HesapMakinasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FC63A-AD08-4162-AC85-860A86B201EE}|HesapMakinasi\\HesapMakinasi.vbproj|c:\\users\\furkan t\u00FCrker\\desktop\\\u002B\\g\u00F6rsel programlama\\hesapmakinasi\\hesapmakinasi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF0FC63A-AD08-4162-AC85-860A86B201EE}|HesapMakinasi\\HesapMakinasi.vbproj|solutionrelative:hesapmakinasi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FC63A-AD08-4162-AC85-860A86B201EE}|HesapMakinasi\\HesapMakinasi.vbproj|c:\\users\\furkan t\u00FCrker\\desktop\\\u002B\\g\u00F6rsel programlama\\hesapmakinasi\\hesapmakinasi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF0FC63A-AD08-4162-AC85-860A86B201EE}|HesapMakinasi\\HesapMakinasi.vbproj|solutionrelative:hesapmakinasi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\FURKAN T\u00DCRKER\\Desktop\\\u002B\\G\u00F6rsel Programlama\\HesapMakinasi\\HesapMakinasi\\Form1.vb",
+              "RelativeDocumentMoniker": "HesapMakinasi\\Form1.vb",
+              "ToolTip": "C:\\Users\\FURKAN T\u00DCRKER\\Desktop\\\u002B\\G\u00F6rsel Programlama\\HesapMakinasi\\HesapMakinasi\\Form1.vb",
+              "RelativeToolTip": "HesapMakinasi\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T18:40:42.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FURKAN T\u00DCRKER\\Desktop\\\u002B\\G\u00F6rsel Programlama\\HesapMakinasi\\HesapMakinasi\\Form1.vb",
+              "RelativeDocumentMoniker": "HesapMakinasi\\Form1.vb",
+              "ToolTip": "C:\\Users\\FURKAN T\u00DCRKER\\Desktop\\\u002B\\G\u00F6rsel Programlama\\HesapMakinasi\\HesapMakinasi\\Form1.vb [Design]",
+              "RelativeToolTip": "HesapMakinasi\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T18:38:33.371Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\bin\Debug\net8.0-windows\SatisFiyatiHesaplama.exe
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\bin\Debug\net8.0-windows\SatisFiyatiHesaplama.deps.json
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\bin\Debug\net8.0-windows\SatisFiyatiHesaplama.runtimeconfig.json
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\bin\Debug\net8.0-windows\SatisFiyatiHesaplama.dll
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\bin\Debug\net8.0-windows\SatisFiyatiHesaplama.pdb
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.Form1.resources
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.vbproj.GenerateResource.cache
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.AssemblyInfoInputs.cache
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.AssemblyInfo.vb
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.vbproj.CoreCompileInputs.cache
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.sourcelink.json
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.dll
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\refint\SatisFiyatiHesaplama.dll
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.pdb
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\SatisFiyatiHesaplama.genruntimeconfig.cache
+C:\Users\FURKAN TÜRKER\source\repos\SatisFiyatiHesaplama\SatisFiyatiHesaplama\obj\Debug\net8.0-windows\ref\SatisFiyatiHesaplama.dll
