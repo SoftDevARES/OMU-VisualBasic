@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SatisFiyatiHesaplama"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edaf0fb0c9eb4298996736642e2a768df89b31fb"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba40bc6c934008049ae3bb84d79cad365a44ce49"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SatisFiyatiHesaplama"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SatisFiyatiHesaplama"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

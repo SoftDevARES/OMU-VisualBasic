@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB6CAEF-6D2D-442B-97FF-72F498915643}|BedenKitle\\BedenKitle.vbproj|c:\\users\\furkan t\\desktop\\\u002B\\g\u00F6rsel programlama\\bedenkitle\\bedenkitle\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8BB6CAEF-6D2D-442B-97FF-72F498915643}|BedenKitle\\BedenKitle.vbproj|solutionrelative:bedenkitle\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB6CAEF-6D2D-442B-97FF-72F498915643}|BedenKitle\\BedenKitle.vbproj|c:\\users\\furkan t\\desktop\\\u002B\\g\u00F6rsel programlama\\bedenkitle\\bedenkitle\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8BB6CAEF-6D2D-442B-97FF-72F498915643}|BedenKitle\\BedenKitle.vbproj|solutionrelative:bedenkitle\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB6CAEF-6D2D-442B-97FF-72F498915643}|BedenKitle\\BedenKitle.vbproj|c:\\users\\furkan t\\desktop\\\u002B\\g\u00F6rsel programlama\\bedenkitle\\bedenkitle\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8BB6CAEF-6D2D-442B-97FF-72F498915643}|BedenKitle\\BedenKitle.vbproj|solutionrelative:bedenkitle\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\BedenKitle\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "BedenKitle\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\BedenKitle\\Form1.Designer.vb",
+              "RelativeToolTip": "BedenKitle\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T08:39:41.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\BedenKitle\\Form1.vb",
+              "RelativeDocumentMoniker": "BedenKitle\\Form1.vb",
+              "ToolTip": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\BedenKitle\\Form1.vb",
+              "RelativeToolTip": "BedenKitle\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T08:15:21.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\BedenKitle\\Form1.vb",
+              "RelativeDocumentMoniker": "BedenKitle\\Form1.vb",
+              "ToolTip": "C:\\Users\\Furkan T\\Desktop\\\u002B\\G\u00F6rsel Programlama\\BedenKitle\\BedenKitle\\Form1.vb [Design]",
+              "RelativeToolTip": "BedenKitle\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T08:12:28.335Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

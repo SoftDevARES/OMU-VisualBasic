@@ -1,0 +1,17 @@
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\bin\Debug\net8.0-windows\HesapMakinasi.exe
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\bin\Debug\net8.0-windows\HesapMakinasi.deps.json
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\bin\Debug\net8.0-windows\HesapMakinasi.runtimeconfig.json
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\bin\Debug\net8.0-windows\HesapMakinasi.dll
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\bin\Debug\net8.0-windows\HesapMakinasi.pdb
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.Form1.resources
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.vbproj.GenerateResource.cache
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.AssemblyInfoInputs.cache
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.AssemblyInfo.vb
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.sourcelink.json
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.dll
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\refint\HesapMakinasi.dll
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.pdb
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\HesapMakinasi.genruntimeconfig.cache
+C:\Users\Furkan T\Desktop\+\Nesne\1.Hafta\HesapMakinasi\HesapMakinasi\obj\Debug\net8.0-windows\ref\HesapMakinasi.dll

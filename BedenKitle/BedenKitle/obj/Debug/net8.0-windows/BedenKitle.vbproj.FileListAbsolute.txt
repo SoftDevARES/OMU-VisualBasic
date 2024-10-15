@@ -1,0 +1,17 @@
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\bin\Debug\net8.0-windows\BedenKitle.exe
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\bin\Debug\net8.0-windows\BedenKitle.deps.json
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\bin\Debug\net8.0-windows\BedenKitle.runtimeconfig.json
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\bin\Debug\net8.0-windows\BedenKitle.dll
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\bin\Debug\net8.0-windows\BedenKitle.pdb
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.Form1.resources
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.vbproj.GenerateResource.cache
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.AssemblyInfoInputs.cache
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.AssemblyInfo.vb
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.sourcelink.json
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.dll
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\refint\BedenKitle.dll
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.pdb
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\BedenKitle.genruntimeconfig.cache
+C:\Users\Furkan T\Desktop\+\Görsel Programlama\BedenKitle\BedenKitle\obj\Debug\net8.0-windows\ref\BedenKitle.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FURKAN TÜRKER\\source\\repos\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj": {}
+    "C:\\Users\\FURKAN TÜRKER\\Desktop\\+\\Görsel Programlama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\FURKAN TÜRKER\\source\\repos\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj": {
+    "C:\\Users\\FURKAN TÜRKER\\Desktop\\+\\Görsel Programlama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FURKAN TÜRKER\\source\\repos\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj",
+        "projectUniqueName": "C:\\Users\\FURKAN TÜRKER\\Desktop\\+\\Görsel Programlama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj",
         "projectName": "SatisFiyatiHesaplama",
-        "projectPath": "C:\\Users\\FURKAN TÜRKER\\source\\repos\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj",
+        "projectPath": "C:\\Users\\FURKAN TÜRKER\\Desktop\\+\\Görsel Programlama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama.vbproj",
         "packagesPath": "C:\\Users\\FURKAN TÜRKER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FURKAN TÜRKER\\source\\repos\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\obj\\",
+        "outputPath": "C:\\Users\\FURKAN TÜRKER\\Desktop\\+\\Görsel Programlama\\SatisFiyatiHesaplama\\SatisFiyatiHesaplama\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
